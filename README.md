@@ -161,42 +161,6 @@ The US appearing alongside Nigeria and Ghana — countries with very different l
 | Matplotlib | Visualization report charts |
 | PowerPoint | Final presentation deck |
 
----
-
-## Repository Structure
-
-```
-depaul-applications-analysis/
-│
-├── README.md
-│
-├── data/
-│   ├── raw/
-│   │   └── DePaul_Raw.xlsx              # Original dataset (if shareable)
-│   └── cleaned/
-│       └── DePaul_Cleaned_PowerBI.xlsx  # Cleaned dataset used in dashboard
-│
-├── week1-cleaning/
-│   └── Data_Cleaning_Notes.md           # Cleaning decisions documented
-│
-├── week2-visualization/
-│   ├── DePaul_Cleaning_Report.xlsx      # Before/after charts + summary stats
-│   └── DePaul_Cleaning_Report.docx      # Full written report with visuals
-│
-├── week3-dashboard/
-│   ├── DePaul_Dashboard.pbix            # Power BI file
-│   ├── DAX_Measures.md                  # All DAX measures documented
-│   ├── Dashboard_Screenshot.png         # Screenshot of final dashboard
-│   └── Week3_DashboardReport.docx       # Design doc + insight report
-│
-├── week4-presentation/
-│   ├── Week4_FinalPresentation.pptx     # 10-slide deck
-│   ├── Week4_VideoScripts.docx          # Recorded video scripts
-│   └── Week4_PresentationGuide.docx     # Live presentation speaker guide
-│
-└── assets/
-    └── charts/                          # Exported chart images
-```
 
 ---
 
