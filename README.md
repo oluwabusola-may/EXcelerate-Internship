@@ -1,12 +1,12 @@
 [README (6).md](https://github.com/user-attachments/files/30657707/README.6.md)
 # DePaul University — International Applications Analysis
-### Excelerate 2026 Internship | Team Haven | Oluwabusola Oyenuga
+### Excelerate Internship | Team Haven | Oluwabusola Oyenuga
 
 ---
 
 ## Project Overview
 
-This project is a full end-to-end data analytics case study completed during the Excelerate 2026 virtual internship. The dataset came from DePaul University's Slate CRM system and contains **7,543 international graduate applications** spanning **95 countries** and **153 programs**.
+This project is a full end-to-end data analytics case study completed during the Excelerate virtual internship. The dataset came from DePaul University's Slate CRM system and contains **7,543 international graduate applications** spanning **95 countries** and **153 programs**.
 
 The work ran across four weeks, each building on the last — from raw data cleaning through to a live interactive Power BI dashboard presented to stakeholders.
 
