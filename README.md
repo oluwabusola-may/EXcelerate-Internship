@@ -1,14 +1,10 @@
 [README.md](https://github.com/user-attachments/files/34258039/README.md)
 # DePaul University — International Applications Analysis
-### Excelerate Internship | Team Haven | Oluwabusola Oyenuga
+### **End-to-end analysis of 7,543 international graduate applications from 95 countries, covering data cleaning, a Power BI dashboard and a team presentation.**
 
----
+Completed during the Excelerate virtual internship, using a CRM export from DePaul University. I cleaned the data, defined the DAX measures, built the dashboard, and presented the findings as a team.
 
-## Project Overview
-
-This project is a full end-to-end data analytics case study completed during the Excelerate virtual internship. The dataset came from DePaul University's Slate CRM system and contains **7,543 international graduate applications** spanning **95 countries** and **153 programs**.
-
-The work ran across four weeks, each building on the last — from raw data cleaning through to a live interactive Power BI dashboard presented to stakeholders.
+> **Context:** The dataset comes from DePaul's Slate admissions CRM and covers 153 programs. India accounts for 53.7% of application.
 
 > **Core finding:** Non-admitted applicants are almost never contacted — only 23.25% have a logged call, compared to 76.75% of admitted applicants. This isn't an admissions quality problem. It's a contact problem.
 
