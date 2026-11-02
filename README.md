@@ -1,4 +1,4 @@
-[README (6).md](https://github.com/user-attachments/files/30657707/README.6.md)
+[README.md](https://github.com/user-attachments/files/34258039/README.md)
 # DePaul University — International Applications Analysis
 ### Excelerate Internship | Team Haven | Oluwabusola Oyenuga
 
@@ -48,7 +48,7 @@ A before/after visualization report documenting the cleaning impact and first-pa
 - Program distribution (Business Analytics + Computer Science: ~26% combined)
 - Year anomaly flagging
 
-**Deliverable:** `DePaul_Cleaning_Report.xlsx` (4 sheets) + `DePaul_Cleaning_Report.docx`
+**Deliverable:** cleaning report (4 sheets) and written summary; exploration notes in [`Week1 DataExploration.pdf`](Week1%20DataExploration.pdf)
 
 ---
 
@@ -89,7 +89,7 @@ DIVIDE(
 )
 ```
 
-**Deliverable:** Power BI `.pbix` file + `Week3_Oluwabusola_Oyenuga_DashboardReport.docx`
+**Deliverable:** [`Depaul Visualization.pbix`](Depaul%20Visualization.pbix) and the full DAX in [`DAX_Measures.md`](DAX_Measures.md)
 
 ---
 
@@ -98,7 +98,7 @@ DIVIDE(
 
 A 10-slide final presentation package consolidating all three weeks, delivered as a live team presentation (3 speakers, 8 minutes including a 2-minute dashboard video walkthrough).
 
-**Deliverable:** `Week4_Oluwabusola_Oyenuga_FinalPresentationPackage.pptx`
+**Deliverable:** [`Final Presentation.pdf`](Final%20Presentation.pdf)
 
 ---
 
